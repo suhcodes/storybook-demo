@@ -1,7 +1,11 @@
 
+<div align="center">
+    <img width=150 height=150 src="./public/logo.png" title="demo" />
+    <h1 style="margin-top: 0px">Demo
+    </h1>
+</div>
 
-# Storybook Component Library Demo
-
+### Storybook Component Library Demo
 The components meant to be consumed by Vue 3 Webapp Demo.
 
 <br><br>
