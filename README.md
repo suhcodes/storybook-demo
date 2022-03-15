@@ -24,7 +24,7 @@ New components are placed at the path ./src/stories and for each new component h
 * `index.js` **local import and initializer**
 
 ```
-fireworks_components
+components
 └─── .storybook
 │   │   main.js
 │   │   preview-head.html
