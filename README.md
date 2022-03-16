@@ -65,7 +65,7 @@ New components use Vue's options API, they have 3 different sections but the sty
 
 ```vue
 <template>
-  <div class="my-scoped-class">Fireworks Component</div>
+  <div class="my-scoped-class">My Component</div>
 </template>
 <script>
   export default {
